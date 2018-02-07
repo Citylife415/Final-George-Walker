@@ -1,0 +1,74 @@
+.container {
+  width: 80%;
+}
+p {
+  color: black;
+}
+.textbox {
+  background-color: white;
+  border-radius: 6px;
+  opacity: 0.5;
+  margin-top: 5%;
+  margin-left: 15%;
+  margin-right: 15%;
+  padding: 5%;
+  margin-bottom: 10%;
+}
+.container > img {
+  margin: 10%;
+  height:100%;
+}
+.aboutme {
+  background-image: url(https://economics21.org/sites/e21/files/iStock_000091867107_Medium_0.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+.body {
+  background-image: url(https://universalbackground.com/wordpress/wp-content/uploads/2016/06/grads.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+p {
+  font-size: medium;
+}
+#img {
+  border-color: black;
+  border-style: solid;
+  border-width: 10px;
+}
+.contact-img {
+  margin-top: 5%;
+}
+.nav {
+  position: fixed;
+  top: 0px;
+  background-color: darkgrey;
+  opacity: 0.9;
+  width: 100%;
+}
+footer {
+  position: fixed;
+  bottom: 0px;
+  background-color: darkgrey;
+  width: 100%;
+  padding: 1%;
+  opacity: 0.8;
+}
+
+.carousel-caption > p, h5 {
+  text-shadow: 2px 2px #FF0000;
+}
+
+.carousel-caption > p {
+  font-size: 30px;
+  color: black;
+}
+.carousel-caption > h5 {
+  font-size: 30px;
+  color: black;
+}
+
+.carousel-item {
+  width: 100%;
+}
